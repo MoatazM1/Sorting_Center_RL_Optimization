@@ -1,0 +1,16 @@
+# Data files
+*.csv
+
+# Old versions
+oldversion/
+
+# Logs
+logs/
+
+# Saved models (large binary files)
+saved_models/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
